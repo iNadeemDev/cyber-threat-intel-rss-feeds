@@ -32,6 +32,7 @@ A curated list of **cybersecurity threat intelligence blogs** and **RSS feeds** 
 | Group-IB | https://www.group-ib.com/feed/blogfeed/ |
 | Help Net Security | https://www.helpnetsecurity.com/view/news/feed/ |
 | HP Wolf Security | https://threatresearch.ext.hp.com/feed/ |
+| ICHI — Internet Cyber Health Index | https://ichi.global/api/alerts |
 | Infoblox | https://blogs.infoblox.com/category/threat-intelligence/feed/ |
 | Intezer | https://intezer.com/feed/ |
 | KrebsOnSecurity | https://krebsonsecurity.com/feed/ |
