@@ -49,6 +49,7 @@ A curated list of **cybersecurity threat intelligence blogs** and **RSS feeds** 
 | Rapid7 | https://www.rapid7.com/rss.xml |
 | Recorded Future | https://www.recordedfuture.com/feed |
 | Rewterz | https://rewterz.com/feed |
+| SecQuill | https://secquill.com/rss.xml |
 | Securelist (Kaspersky) | https://securelist.com/feed/ |
 | Security Affairs | https://securityaffairs.com/feed |
 | Security Joes | https://www.securityjoes.com/blog-feed.xml |
